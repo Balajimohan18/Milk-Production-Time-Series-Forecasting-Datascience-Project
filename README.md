@@ -1,7 +1,5 @@
 # Milk-Production-Time-Series-Forecasting-Datascience-Project
 This project uses time series forecasting to predict future milk production. The data used in this project is monthly milk production data from January 1962 to December 1975. The ARIMA (autoregressive integrated moving average) model is used to forecast the milk production. The model is evaluated using various metrics.
-# Milk-Production-Time-Series-Forecasting-Datascience-Project
-This project uses time series forecasting to predict future milk production. The data used in this project is monthly milk production data from January 1962 to December 1975. The ARIMA (autoregressive integrated moving average) model is used to forecast the milk production. The model is evaluated using various metrics.
 ## Problem Statement:
 The dairy industry is a major economic sector in many countries. The ability to forecast milk production is important for farmers, processors, and policymakers. The Goal is to build the model that can accurately predict the quantity of milk that will be produced in the future.
 ## Solution Approach:
